@@ -7,7 +7,7 @@ The course had three exercises to be done which gave an overview over some basic
 - Project 2: Fisher's Linear Discriminant Analysis to classify sonar and radar data
 <p align="center">
   <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/FisherLinearDiscriminant.png" alt="drawing" width="300"/>
-<\p>
+</p>
 - Project 3: Deep Learning with different amounts of layers and different activation functions
 <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/pic_bdy_bp.png" alt="drawing" width="300"/>
 
