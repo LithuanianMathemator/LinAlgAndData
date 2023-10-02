@@ -322,7 +322,7 @@ srate = (sum(successA) + sum(successB))/(size(TestA, 1) + size(TestB, 1))
 % We can see that changing $c$ actually gives improved results for $c_4$ and 
 % $c_6$, suggesting that the sets $A$ and $B$ are slightly intertwined.
 % 
-% Now we want to see how changing $c$ impacts our model for the sonar dataset.
+% Now we want to see how changing $c$ impacts our model for the ionosphere dataset.
 
 A = ionosphere_data(ionosphere_label == 0, :);
 B = ionosphere_data(ionosphere_label == 1, :);
@@ -411,7 +411,7 @@ srate = (sum(successA) + sum(successB))/(size(TestA, 1) + size(TestB, 1))
 % but 33-dimensional. In the covariance matrix, this leads to zeros in both row 
 % and column 2 in $s_A$ and $s_B$ each. The issue can be adressed using the Moore-Penrose 
 % pseudoinverse. As the attentive reader might have noticed, that is exactly what 
-% was being done in tasks 3 and 4. It is the closed we can get, norm-wise, to 
+% was being done in tasks 3 and 4. It is the closest we can get, norm-wise, to 
 % an actual solution of a linear equation featuring a singular matrix. Looking 
 % back on task 3 however, one could possibly have also considered deleting the 
 % second feature from our dataset and working with the remaining 33 dimensions.
