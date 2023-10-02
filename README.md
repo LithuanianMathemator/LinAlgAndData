@@ -5,7 +5,9 @@ The course had three exercises to be done which gave an overview over some basic
 
 - Project 1: Singular value decomposition and classification of handwritten numbers
 - Project 2: Fisher's Linear Discriminant Analysis to classify sonar and radar data
-<img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/FisherLinearDiscriminant.png" alt="drawing" width="300"/>
+<p align="center">
+  <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/FisherLinearDiscriminant.png" alt="drawing" width="300"/>
+<\p>
 - Project 3: Deep Learning with different amounts of layers and different activation functions
 <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/pic_bdy_bp.png" alt="drawing" width="300"/>
 
