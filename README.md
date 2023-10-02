@@ -8,3 +8,5 @@ The course had three exercises to be done which gave an overview over some basic
 - Project 3: Deep Learning with different amounts of layers and different activation functions
 
 ![alt text](https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/StockholmUniversity.png)
+
+<img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/StockholmUniversity.png" alt="drawing" width="200"/>
