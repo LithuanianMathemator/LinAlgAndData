@@ -1,10 +1,6 @@
 # Linear Algebra and Learning from Data
 MATLAB exercises from the course "Linear Algebra and Learning from Data" taken at Stockholm University
 
-<p align="center">
-  <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/StockholmUniversity.png" alt="drawing" width="300"/>
-</p>
-
 The course had three exercises to be done which gave an overview over some basic machine learning.
 
 - Project 1: Singular value decomposition and classification of handwritten numbers
