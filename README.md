@@ -13,6 +13,7 @@ The course had three exercises to be done which gave an overview over some basic
   <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/FisherLinearDiscriminant.png" alt="drawing" width="600"/>
 </p>
 - Project 3: Deep Learning with different amounts of layers and different activation functions
+
 <p align="center">
-  <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/pic_bdy_bp.png" alt="drawing" width="300"/>
+  <img src="https://github.com/LithuanianMathemator/LinAlgAndData/blob/main/Images/pic_bdy_bp.png" alt="drawing" width="600"/>
 </p>
